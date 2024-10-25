@@ -1,0 +1,11 @@
+{
+    "name": "zonuexe/bench-array_map",
+    "description": "Benchmark",
+    "license": "FSFAP",
+    "require": {
+        "phpbench/phpbench": "^1.3"
+    },
+    "autoload": {
+        "classmap": ["tests"]
+    }
+}
